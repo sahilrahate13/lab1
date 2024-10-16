@@ -1,4 +1,3 @@
-print("Hello world")
-  
 
-  #ths is the comment
+name = input("name:")
+print(name)
